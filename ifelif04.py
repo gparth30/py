@@ -21,7 +21,7 @@ elif bmi>=30.0:
     print("Obese Type |")
 elif bmi>=25.0:
     print("Over Weight")
-elif bmi>18.5:
+elif bmi>=18.5:
     print("Normal Weight")
 else:
      bmi<18
